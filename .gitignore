@@ -1,1 +1,5 @@
 cahier_de_charge.ipynb
+.env
+.idea
+.venv
+data/main_data.csv
