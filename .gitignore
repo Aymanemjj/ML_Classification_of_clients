@@ -3,3 +3,4 @@ cahier_de_charge.ipynb
 .idea
 .venv
 data/main_data.csv
+artifacts/*
