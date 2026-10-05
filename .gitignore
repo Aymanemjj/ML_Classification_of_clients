@@ -4,3 +4,4 @@ cahier_de_charge.ipynb
 .venv
 data/main_data.csv
 artifacts/*
+data/CRFM.csv
